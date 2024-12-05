@@ -1,4 +1,4 @@
-import More from '../assets/add-circle-outline.svg'
+import More from '../assets/more.svg'
 import styles from './Add.module.css'
 
 export function AddButton() {
@@ -6,7 +6,7 @@ export function AddButton() {
     <div>
       <button className= {styles.buttonAdd}>
         <p>Criar</p>
-        <more cla />
+        <img src={More} alt="" />
       </button>  
     </div>
 

@@ -4,19 +4,17 @@
 }
 
 .typeNewTask {
-  border: 1px solid red;
   height: 3.375rem;
   width: 39.875rem;
   border-radius: 8px;
   background: var(--gray-500);
   display: flex;
   align-items: center;
-  margin: -1.6875rem 8px auto 22rem;
+  margin: -1.6875rem 8px auto;
   padding: 8px 16px;
 }
 
 .addNewTask {
-  border: solid 1px red;
   background: var(--blue-dark);
   display: flex;
   align-items: center;
@@ -33,5 +31,5 @@
   font-size: 16px;
   outline: none;
   color: #eaeaea;
-  width: '100%';
+  width: 100%;
 }

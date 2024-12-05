@@ -8,7 +8,7 @@ export function TypeTask() {
     <div className={styles.createBox}>
       <div className={styles.typeNewTask}>
         <input 
-          id={styles.inputType} 
+          id={styles.inputType}
           placeholder='Adicionar nova tarefa'
          />
       </div>

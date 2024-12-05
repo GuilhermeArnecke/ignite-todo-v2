@@ -3,10 +3,12 @@
   justify-content: center;
   align-items: center;
   background-color: var(--blue-dark);
-  border: 1px solid red;
   color: var(--gray-100);
-}
-
-svg {
-  color: var(--gray-100);
+  border-radius: 8px;
+  width: 5.625rem;
+  height: 3.25rem;
+  margin: -1.6875rem auto auto 8px;
+  gap: 0.5rem;
+  cursor: pointer;
+  border: none;
 }
