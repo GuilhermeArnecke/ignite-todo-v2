@@ -1,0 +1,37 @@
+.createBox {
+  display: flex;
+  justify-content: center;
+}
+
+.typeNewTask {
+  border: 1px solid red;
+  height: 3.375rem;
+  width: 39.875rem;
+  border-radius: 8px;
+  background: var(--gray-500);
+  display: flex;
+  align-items: center;
+  margin: -1.6875rem 8px auto 22rem;
+  padding: 8px 16px;
+}
+
+.addNewTask {
+  border: solid 1px red;
+  background: var(--blue-dark);
+  display: flex;
+  align-items: center;
+  width: 90px;
+  height: 52px;
+  border-radius: 8px;
+  margin: -1.6875rem auto auto 0px;
+}
+
+#inputType {
+  background: transparent;
+  border: none;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  outline: none;
+  color: #eaeaea;
+  width: '100%';
+}

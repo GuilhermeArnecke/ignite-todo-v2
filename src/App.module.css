@@ -1,0 +1,6 @@
+.wrapper {
+  max-width: 46rem;
+  margin: 4rem 22rem auto 22rem;
+  display: flex;
+  justify-content: center;
+}

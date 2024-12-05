@@ -1,0 +1,12 @@
+.buttonAdd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--blue-dark);
+  border: 1px solid red;
+  color: var(--gray-100);
+}
+
+svg {
+  color: var(--gray-100);
+}
